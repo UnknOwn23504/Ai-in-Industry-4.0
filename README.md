@@ -48,7 +48,7 @@ Make sure your PyTorch installation supports GPU for faster processing, especial
 4. **Run the Application**
    Start the Gradio interface by running:
    ```sh
-   python main.py
+   jupyter notebook AI_Video_Generator.ipynb
    ```
 
    The Gradio interface will be launched in your browser, allowing you to upload videos, view captions, and visualize the generated synthetic video.
@@ -65,7 +65,7 @@ Make sure your PyTorch installation supports GPU for faster processing, especial
 
 ## Directory Structure
 
-- **main.py**: Contains the main script that runs the Gradio application.
+- **AI_Video_Generator.ipynb**: Contains the main script that runs the Gradio application.
 - **uploaded_videos/**: Directory used to store uploaded videos.
 - **generated_videos/**: Directory used to store generated synthetic videos.
 
