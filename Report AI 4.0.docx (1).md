@@ -28,7 +28,6 @@ BY
 
 **Teaching Assistant: Dhathri Meda**
 
-![cid:image003.png@01D6594A.2604D070][image1]
 
 ## *About*
 
@@ -59,7 +58,7 @@ This tool allows users to:
 
 **Step 1: Clone the Repository**
 
-*git clone https://github.com/yourusername/rare-human-action-generator.git*
+*git clone (https://github.com/UnknOwn23504/Rare-human-action-generator)*
 
 *cd rare-human-action-generator*
 
