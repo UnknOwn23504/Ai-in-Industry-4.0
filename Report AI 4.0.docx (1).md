@@ -12,9 +12,9 @@ BY
 
 	
 
-	**Bhanu Chand Pothina \- SE21UARI024**
+**Bhanu Chand Pothina \- SE21UARI024**
 
-	**Harsha Vardhan Reddy Ailuri \- SE21UARI043**
+**Harsha Vardhan Reddy Ailuri \- SE21UARI043**
 
 **Heshika Pokala \- SE21UARI050**
 
