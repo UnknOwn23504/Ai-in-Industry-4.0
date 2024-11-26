@@ -97,12 +97,5 @@ The Gradio interface allows easy interaction with the system:
 - **Slow Processing**: If the processing is slow, ensure you are running on a GPU-enabled machine.
 - **Model Download Issues**: If model weights fail to download, ensure you have a stable internet connection and sufficient disk space.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgments
-- Special thanks to [Hugging Face](https://huggingface.co/) for providing access to the pre-trained models.
-- The [Gradio](https://gradio.app/) team for making web UI integration seamless.
-
-Feel free to fork this project and contribute by submitting pull requests with enhancements or fixes.
 
