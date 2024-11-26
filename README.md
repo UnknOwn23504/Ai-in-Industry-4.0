@@ -97,5 +97,7 @@ The Gradio interface allows easy interaction with the system:
 - **Slow Processing**: If the processing is slow, ensure you are running on a GPU-enabled machine.
 - **Model Download Issues**: If model weights fail to download, ensure you have a stable internet connection and sufficient disk space.
 
+## Demo
+To view the demo, click on this link: https://www.youtube.com/playlist?list=PLJxKi3ezq8dZzaQ7MT6TKFj5CdHzAjJWy
 
 
