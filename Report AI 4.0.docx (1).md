@@ -1,16 +1,10 @@
-A Report
-
-On
-
 **Assignment\_1**
 
+A Report On
 # **(**Rare-Human Action Video Generator**)**
 
 BY
-
 **Team 7**
-
-	
 
 **Bhanu Chand Pothina \- SE21UARI024**
 
@@ -21,12 +15,6 @@ BY
 **Vasundhara Kandadi \- SE21UARI062**
 
 **CS 4124 : AI in Industry 4.0**
-
-**BY**
-
-**Lecturer: Meg Rajendran** 
-
-**Teaching Assistant: Dhathri Meda**
 
 
 ## *About*
@@ -48,11 +36,6 @@ This tool allows users to:
 * Synthetic video generation using open-source AI models.  
 * Side-by-side comparison of input and generated videos.
 
-		
-
-## 
-
-## 
 
 ## *Installation*
 
@@ -98,4 +81,4 @@ Run the Python code to start the Gradio interface:
 
 ## *Demo*
 
-**Check out the demo video showcasing the interface and outputs: (https://youtu.be/UqLKl37R1Xc))**
+**Check out the demo video showcasing the interface and outputs: (https://www.youtube.com/playlist?list=PLJxKi3ezq8dZzaQ7MT6TKFj5CdHzAjJWy)**
