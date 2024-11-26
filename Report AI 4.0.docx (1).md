@@ -4,15 +4,17 @@ A Report On
 # **(**Rare-Human Action Video Generator**)**
 
 BY
+
 **Team 7**
 
-**Bhanu Chand Pothina \- SE21UARI024**
 
 **Harsha Vardhan Reddy Ailuri \- SE21UARI043**
 
 **Heshika Pokala \- SE21UARI050**
 
 **Vasundhara Kandadi \- SE21UARI062**
+
+**Bhanu Chand Pothina \- SE21UARI024**
 
 **CS 4124 : AI in Industry 4.0**
 
