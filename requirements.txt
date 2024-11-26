@@ -1,0 +1,8 @@
+gradio
+av
+torch
+transformers
+diffusers
+opencv-python-headless
+moviepy
+Pillow
